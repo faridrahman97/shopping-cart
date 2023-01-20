@@ -1,2 +1,3 @@
-# shopping-cart
-Shopping Cart Application
+# Shopping Cart
+
+Shopping Cart Application that utilizes HTML, CSS, and Javascript
